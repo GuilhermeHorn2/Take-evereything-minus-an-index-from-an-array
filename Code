@@ -1,0 +1,10 @@
+/* I want create another array ignoring a giving index  */
+
+arr = [4,5,7,1,9,3]
+function close(index) {
+ var beforeIndex = arr.slice(0,index)
+ var afterIndex = arr.slice(1)
+ var together =  beforeIndex.concat(afterIndex);
+ return together;
+}
+ 
