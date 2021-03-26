@@ -1,0 +1,1 @@
+# Take-evereything-minus-an-index-from-an-array
