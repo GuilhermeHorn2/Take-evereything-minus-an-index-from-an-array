@@ -1,1 +1,1 @@
-# Take-evereything-minus-an-index-from-an-array
+# Take-evereything-but-an-index-from-an-array
